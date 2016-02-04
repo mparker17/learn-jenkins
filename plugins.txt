@@ -2,5 +2,6 @@ git:2.4.1
 git-changelog:1.2
 git-client:1.19.2
 git-parameter:0.4.0
+modernstatus:1.2
 scm-api:1.0
 token-macro:1.12.1

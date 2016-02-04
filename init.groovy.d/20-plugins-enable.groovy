@@ -11,3 +11,4 @@ import jenkins.model.*;
 Jenkins.instance.pluginManager.getPlugin("git").enable()
 Jenkins.instance.pluginManager.getPlugin("git-changelog").enable()
 Jenkins.instance.pluginManager.getPlugin("git-parameter").enable()
+Jenkins.instance.pluginManager.getPlugin("modernstatus").enable()
